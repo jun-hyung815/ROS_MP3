@@ -1,0 +1,25 @@
+# === ROS / Catkin build artifacts ===
+build/
+devel/
+logs/
+install/
+
+# === IDE / Editor files ===
+*.swp
+*.swo
+*.swm
+*.swn
+*~
+.vscode/
+.idea/
+
+# === Python cache ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === System files ===
+.DS_Store
+Thumbs.db
+
