@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="mp3_player" type="mp3_node" name="mp3_node" output="screen"/>
+</launch>
